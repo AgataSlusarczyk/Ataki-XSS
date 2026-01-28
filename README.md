@@ -1,4 +1,11 @@
 # Ataki XSS
+Środowisko: Damn Vulnerable Web Application (DVWA) - Docker
+
+Konfiguracja Startowa
+Uruchom kontener: docker run --rm -it -p 8080:80 vulnerables/web-dvwa
+
+Zaloguj się (admin/password).
+
 
 ## Zadanie 1: XSS Reflected
 
